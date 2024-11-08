@@ -1,5 +1,10 @@
 # HackerRank + VS Code
 
+## before read the file, please read the documantiation created by Notion in JM ver
+[Notion-Link](https://www.notion.so/C-P-View-Project-12f32f9605b580debde2e9e352e29724?pvs=4)
+
+
+
 <img src="./media/header.png" width="100%">
 
 ### HackerRank + VS Code lets you solve HackerRank challenges in VS Code
